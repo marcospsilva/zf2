@@ -1,0 +1,40 @@
+<h1>Livros</h1>
+<br />
+<p>
+    <a href="<?php echo $this->url("livraria-admin", array("controller" => "livros", "action" => "new")) ?>">
+        <span class="glyphicon glyphicon-plus"></span>
+    </a>
+</p>
+<table class="table table-striped table-hover table-responsive">
+    <tr>
+        <td>ID</td>
+        <td>Nome</td>
+        <td>Categoria</td>
+        <td>Valor</td>
+        <td>Autor</td>
+        <td>Isbn</td>
+        <td>Ação</td>
+    </tr>
+    <?php foreach ($this->data as $entity): ?>
+        <tr>
+            <td><?php echo $entity->getId(); ?></td>
+            <td><?php echo $entity->getNome(); ?></td>
+            <td><?php echo $entity->getCategoria(); ?></td>
+            <td><?php echo $entity->getValor(); ?></td>
+            <td><?php echo $entity->getAutor(); ?></td>
+                 <td><?php echo $entity->getIsbn(); ?></td>
+            <td> <a href="<?php echo $this->url("livraria-admin-interna", array("controller" => "livros", "action" => "edit", "id" => $entity->getId())); ?>" class="btn btn-default">
+                    <span class="glyphicon glyphicon-pencil"></span>
+                </a> &nbsp;<a href="<?php echo $this->url("livraria-admin-interna", array("controller" => "livros", "action" => "delete", "id" => $entity->getId())); ?>" class="btn btn-danger">
+                    <span class="glyphicon glyphicon-remove"></span>
+                </a> </td>
+        </tr>
+
+    <?php endforeach; ?>
+    <tr>
+        <td colspan="3"><?php echo $this->paginationControl($this->data, 'Sliding', 'paginator'); ?></td>
+    </tr>
+</table>
+
+<br />
+

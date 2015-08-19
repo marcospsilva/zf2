@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/cursozf/module/Livraria/config/module.config.php</file>
+            <file>file:/var/www/html/cursozf/vendor/zendframework/zendframework/library/Zend/Di/Definition/Annotation/Inject.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/LivrariaAdmin/Form/User.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/Livraria/Service/Categoria.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/view/livraria-admin/categoria/edit.phtml</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/LivrariaAdmin/Form/Login.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/view/livraria-admin/auth/index.phtml</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/Livraria/View/Helper/UserIdentity.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/LivrariaAdmin/Controller/CategoriaController.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/Module.php</file>
+            <file>file:/var/www/html/cursozf/vendor/zendframework/zendframework/library/Zend/Authentication/AuthenticationService.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/view/layout/layout.phtml</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/LivrariaAdmin/Controller/CrudController.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/view/livraria-admin/user/index.phtml</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/view/paginator.phtml</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/Livraria/Entity/UserRepository.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/Livraria/Service/User.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/LivrariaAdmin/Controller/AuthController.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/Livraria/Auth/Adapter.php</file>
+            <file>file:/var/www/html/cursozf/public/index.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/view/livraria-admin/categoria/index.phtml</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/LivrariaAdmin/Controller/LivroController.php</file>
+            <file>file:/var/www/html/cursozf/config/application.config.php</file>
+            <file>file:/var/www/html/cursozf/init_autoloader.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/Livraria/Service/Livro.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/Livraria/Entity/Livro.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/LivrariaAdmin/Form/Livro.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/Livraria/Entity/User.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/Livraria/Service/AbstractService.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/view/livraria-admin/user/new.phtml</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/LivrariaAdmin/Controller/UserController.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/Livraria/Entity/CategoriaRepository.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/Livraria/Entity/Categoria.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/Livraria/Controller/IndexController.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/view/livraria-admin/user/edit.phtml</file>
+            <file>file:/var/www/html/cursozf/vendor/zendframework/zendframework/library/Zend/Code/Reflection/FileReflection.php</file>
+            <file>file:/var/www/html/cursozf/module/Livraria/src/Livraria/Entity/Configurator.php</file>
+        </group>
+    </open-files>
+</project-private>
